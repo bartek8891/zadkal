@@ -23,7 +23,7 @@ plik vendor.rar do rozpakowania
 
 -konto administratora:
 bartek/bartek
--strona startowa: /basic/web/user/login
+-strona startowa: /.../web
 -W projekcie użyłem:
 yii2-basic,
 yii2-user,
